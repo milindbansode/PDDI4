@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{C1460EBE-FD79-4F9F-AA4B-EB5F019A5DAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PDDI4WebApp", "PDDI4WebApp\PDDI4WebApp.csproj", "{8433A21F-72FA-4512-B70F-601302518FA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8433A21F-72FA-4512-B70F-601302518FA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8433A21F-72FA-4512-B70F-601302518FA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8433A21F-72FA-4512-B70F-601302518FA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8433A21F-72FA-4512-B70F-601302518FA8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8433A21F-72FA-4512-B70F-601302518FA8} = {C1460EBE-FD79-4F9F-AA4B-EB5F019A5DAF}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7AE47E8-6950-46C4-ABA4-32B245946008}
+	EndGlobalSection
+EndGlobal
