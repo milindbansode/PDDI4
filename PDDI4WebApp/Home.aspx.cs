@@ -11,8 +11,6 @@ namespace PDDI4WebApp
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            test 3
-
             Response.Write("Test from Ajay2");
 
             Response.Write(string.Format("Hello World PDDI: {0}", DateTime.Now));
